@@ -40,7 +40,7 @@
     <h1>350Z InfoGauge Firmware Update</h1>
     <p>Connect your gauge to your computer via USB, then click below using Chrome, Edge, or Brave.</p>
 
-    <esp-web-install-button manifest="./manifest.json">
+    <esp-web-install-button manifest="./manifest.json" baud-rate="115200">
       <button slot="activate">Connect & Flash Gauge</button>
       <span slot="unsupported">Web Serial is not supported by your browser. Please use Google Chrome, Microsoft Edge, or Brave on Desktop.</span>
       <span slot="not-allowed">Web Serial requires HTTPS.</span>
