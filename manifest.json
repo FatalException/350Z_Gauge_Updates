@@ -1,0 +1,16 @@
+{
+  "name": "350Z InfoGauge Firmware",
+  "version": "0.93A",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/FatalException/350ZInfoGauge/releases/download/0.93/digital_gauge_firmware_0093A.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
