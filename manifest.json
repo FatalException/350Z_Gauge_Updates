@@ -1,13 +1,13 @@
 {
   "name": "350Z InfoGauge Firmware",
-  "version": "0.93A",
+  "version": "0.94B",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "digital_gauge_firmware_0093A.bin",
+          "path": "digital_gauge_firmware_094B.bin",
           "offset": 0
         }
       ]
