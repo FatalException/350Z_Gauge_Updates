@@ -1,14 +1,14 @@
 {
   "B": {
-    "version": "v0.964",
-    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.964_B.bin",
-    "size": 1635360,
-    "sha256": "5732e287583ee5d300cbb645f2a1629ee93c0b076b2e1c9d6a9272adaa4569c4"
+    "version": "v0.965",
+    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.965_B.bin",
+    "size": 1635664,
+    "sha256": "40d5e52d6f29a8fc7f51823b38dfced94a890253dd75707c7b84977dbaeff4e5"
   },
   "A": {
-    "version": "v0.964",
-    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.964_A.bin",
-    "size": 1635456,
-    "sha256": "87fd3ca39bb06d28e50af3426087dc4d4d2fa12c64d6beb1e5176139d0cc8d2b"
+    "version": "v0.965",
+    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.965_A.bin",
+    "size": 1635760,
+    "sha256": "4811876d30f7f45d6ea3f51a10ed346955ba48e3958112f95e1ada4e37cf5f38"
   }
 }
