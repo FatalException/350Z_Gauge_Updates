@@ -1,8 +1,8 @@
 {
   "A": {
-    "version": "v0.981",
-    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.981_A.bin",
-    "size": 1639392,
-    "sha256": "767ef2089742f17bdfcc96a66585e9bc321cb3ee4fec99c7ad032b675ae865ea"
+    "version": "v0.983",
+    "url": "https://raw.githubusercontent.com/FatalException/350Z_Gauge_Updates/main/ota_v0.983_A.bin",
+    "size": 1628928,
+    "sha256": "51563d4841484e86ec2ec48566e3c77d989a434c248317cc311fca207227b1ed"
   }
 }
